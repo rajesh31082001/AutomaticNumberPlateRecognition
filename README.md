@@ -1,7 +1,6 @@
 # AutomaticNumberPlateRecognition
 ANPR (Automatic Number Plate Recognition) uses machine learning and computer vision to detect and read vehicle license plates in real-time. It supports images and video feeds, provides high accuracy, and integrates easily with other systems. Built with Python, OpenCV, TensorFlow, and Tesseract OCR. MIT Licensed.
 
-Sure, here's a README file for your ANPR project:
 
 ---
 
@@ -67,5 +66,3 @@ We welcome contributions from the community! If you have any suggestions or impr
 Special thanks to the developers of OpenCV, TensorFlow, Keras, and Tesseract OCR for their invaluable tools and libraries.
 
 ---
-
-Feel free to adjust this README file based on the specifics of your implementation and preferences.
